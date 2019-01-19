@@ -2,7 +2,7 @@ main.py extracts the acoustic features from music directory and save them as a s
 
 recommend.py make the recommendation by using k-nn algorithm with a default parameter Euclidean distance. distance can be change.
 
-if you would like to change the music file, just replace the songs with new ones. you can change csv file name inside of the code as well
+if you would like to change the music file, just replace the songs with new ones and run the main.py.you can change csv file name inside of the code as well or you can merge them
 
 TO RUN
 
