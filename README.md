@@ -4,7 +4,7 @@ System works for mp3 files. It extracts the acoustic features for first and last
 
 
 ## Getting Started
-=======
+
 if you would like to change the music file, just replace the songs with new ones and run the main.py.you can change csv file name inside of the code as well or you can merge them
 
 Put only your song files under the music directory.
