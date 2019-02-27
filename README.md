@@ -2,7 +2,11 @@
 
 System works for mp3 files. It extracts the acoustic features for first and last 30 seconds from files and saves as a csv file. It gives a recommendation for choosen song. Purpose of the system is to give recommendation to users for best crossfade.
 
+<<<<<<< HEAD
 ## Getting Started
+=======
+if you would like to change the music file, just replace the songs with new ones and run the main.py.you can change csv file name inside of the code as well or you can merge them
+>>>>>>> 582194fa091ec3996f290d1769f61dd474a4e5f8
 
 Put only your song files under the music directory.
 
@@ -82,3 +86,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Not given
 
+<<<<<<< HEAD
+=======
+1. pip install -r requirements.txt
+2. python main.py
+3. python recommend.py
+4. python recommend.py music/David_August_-_Epikur_-_Epikur_EP_\(Official_Video\)-Zvi4JYmRXzI.mp3  ---> change the songname.mp3 
+>>>>>>> 582194fa091ec3996f290d1769f61dd474a4e5f8
